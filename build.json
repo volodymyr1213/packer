@@ -11,7 +11,7 @@
       "region": "ap-south-1",
       "source_ami": "ami-0912f71e06545ad88",
       "instance_type": "t2.micro",
-      "ssh_username": "ec2-user",
+      "ssh_username": "root",
       "ami_name": "apache-ami-packer-{{timestamp}}"
     }
   ],
